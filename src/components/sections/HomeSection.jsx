@@ -11,8 +11,8 @@ const HomeSection = () => {
         <div className="space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
             <span className="opacity-0 animate-fade-in">Hi, I'm </span>
-            <span className="opacity-0 text-primary animate-fade-in-delay-1">
-              Jomar{" "}
+            <span className="opacity-0 text-white animate-fade-in-delay-1">
+              Jomar
             </span>
             <span className="text-gradient ml-2 opacity-0 text-primary animate-fade-in-delay-2">
               Taipan
