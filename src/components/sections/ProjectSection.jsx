@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../../assets/img/profile.jpg";
+
 import jomcart_thumbnail from "../../assets/img/jomcart_thumbnail.png";
 import thesis_thumbnail from "../../assets/img/thesis_thumbnail.png";
 import { ExternalLink, ArrowRight } from "lucide-react";
