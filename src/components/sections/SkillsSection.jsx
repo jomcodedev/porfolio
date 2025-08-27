@@ -4,7 +4,7 @@ import twMergeClassnames from "../../lib/utils";
 const skills = [
   { name: "Node.js", level: 80, category: "backend" },
   { name: "Express", level: 80, category: "backend" },
-  { name: "MongoDB", level: 85, category: "backend" },
+  { name: "MongoDB", level: 80, category: "backend" },
 
   { name: "HTML/CSS", level: 85, category: "frontend" },
   { name: "JavaScript", level: 85, category: "frontend" },
