@@ -2,12 +2,12 @@ import React, { useState } from "react";
 import twMergeClassnames from "../../lib/utils";
 
 const skills = [
-  { name: "Node.js", level: 90, category: "backend" },
-  { name: "Express", level: 90, category: "backend" },
+  { name: "Node.js", level: 80, category: "backend" },
+  { name: "Express", level: 80, category: "backend" },
   { name: "MongoDB", level: 85, category: "backend" },
 
   { name: "HTML/CSS", level: 85, category: "frontend" },
-  { name: "JavaScript", level: 90, category: "frontend" },
+  { name: "JavaScript", level: 85, category: "frontend" },
   { name: "React", level: 80, category: "frontend" },
   { name: "Tailwind CSS", level: 80, category: "frontend" },
 
