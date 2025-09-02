@@ -1,6 +1,6 @@
 import { Code, Lock, ShoppingBag, ShoppingCart } from "lucide-react";
 import React from "react";
-import jomTaipanCv from "../../assets/pdf/JomarTaipanCV.pdf";
+import jomTaipanCv from "../../assets/pdf/Jomar_Taipan_CV.pdf";
 
 const AboutMeSection = () => {
   return (
