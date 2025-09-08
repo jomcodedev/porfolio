@@ -108,11 +108,14 @@ const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="#" target="nada">
+                <a
+                  href="https://www.linkedin.com/in/jomar-taipan-09ab55206/"
+                  target="nada"
+                >
                   <FaLinkedinIn size={25} />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/jomar-taipan-09ab55206/"
+                  href="https://wa.me/message/SXGZDSSHW2ZDF1?src=qr"
                   target="_blank"
                 >
                   <BsWhatsapp size={25} />
