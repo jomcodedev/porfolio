@@ -112,7 +112,7 @@ const ContactSection = () => {
                   <FaLinkedinIn size={25} />
                 </a>
                 <a
-                  href="https://wa.me/message/SXGZDSSHW2ZDF1?src=qr"
+                  href="https://www.linkedin.com/in/jomar-taipan-09ab55206/"
                   target="_blank"
                 >
                   <BsWhatsapp size={25} />
