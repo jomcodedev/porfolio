@@ -100,7 +100,7 @@ const ContactSection = () => {
                 <div>
                   <h4 className="font-medium">Location</h4>
                   <a className="text-muted-foreground hover:text-primary transition-colors">
-                   Pasay City
+                    Pasay City
                   </a>
                 </div>
               </div>
@@ -111,7 +111,10 @@ const ContactSection = () => {
                 <a href="#" target="nada">
                   <FaLinkedinIn size={25} />
                 </a>
-                <a href="https://wa.me/qr/JHXEE2P3JLVQK1" target="_blank">
+                <a
+                  href="https://wa.me/message/SXGZDSSHW2ZDF1?src=qr"
+                  target="_blank"
+                >
                   <BsWhatsapp size={25} />
                 </a>
               </div>
