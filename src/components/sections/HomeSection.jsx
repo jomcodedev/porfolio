@@ -19,10 +19,11 @@ const HomeSection = () => {
             </span>
           </h1>
           <p className=" text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I’m a fullstack web developer, with a focus on back-end development.
+            A passionate software developer focused on backend development.
             <br />
             <span className="font-light text-md">
-              Building fast, scalable, and modern web applications
+              . Committed to building scalable, secure, and maintainable
+              applications through continuous learning and hands-on projects.
             </span>
           </p>
 

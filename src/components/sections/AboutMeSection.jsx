@@ -17,10 +17,11 @@ const AboutMeSection = () => {
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">Web Developer</h3>
             <p className="text-muted-foreground">
-              Focused on building robust full-stack web applications using
-              modern JavaScript technologies, with a growing interest in
-              ASP.NET. Also open to working with structured APIs like GraphQL
-              and SOAP.
+              I’m a passionate software developer with experience in Node.js and
+              basic React UI, currently learning Java Spring Boot and C# .NET
+              Core to expand my backend and enterprise system skills. Focused on
+              building scalable, secure, and maintainable backend applications
+              through continuous learning and project work.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
