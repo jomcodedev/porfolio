@@ -23,7 +23,7 @@ const HomeSection = () => {
             <br />
             <span className="font-light text-md">
               . Committed to building scalable, secure, and maintainable
-              applications through continuous learning and hands-on projects.
+              applications through continuous learning and hands-on project
             </span>
           </p>
 
